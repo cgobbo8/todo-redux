@@ -2,7 +2,7 @@
 
 Prérequis : 
 - Installer `pnpm`
-- Installer `json-server
+- Installer `json-server`
 
 Lancer le projet avec la commande `pnpm dev` ou `yarn dev`.
 
